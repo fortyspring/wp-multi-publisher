@@ -1,0 +1,5 @@
+# WP Multi Publisher  Official product showcase maintained by **Mohamad Kassem**.  ## Overview  Product showcase for multi-site WordPress publishing infrastructure.  ## Technology  WordPress â€¢ PHP â€¢ REST API â€¢ HMAC  ## Key Features  - Central publishing core
+- Remote site agents
+- Secure API communication
+- Multi-site content delivery
+- Publishing status tracking  ## Status  Production / Active Development  ## Official Website  https://theverificat.com/  ## Source Code  **Proprietary software. Source code is not publicly distributed.**  This repository contains product information and documentation only. It does not contain commercial source code, APK files, ZIP packages, credentials, private APIs, or deployment secrets.  Â© 2026 Mohamad Kassem / The Verificat Agency. All rights reserved.
