@@ -4,12 +4,10 @@
 
 Multi-site WordPress publishing infrastructure by **Mohamad Kassem**.
 
-## Production Context
-
+## Production context
 https://theverificat.com/
 
-## Product Focus
-
+## Product focus
 - Central publishing workflow
 - Remote-site agents
 - REST-based distribution
@@ -17,8 +15,7 @@ https://theverificat.com/
 - Multi-destination content delivery
 - Operational publishing status workflows
 
-## Source Code
-
+## Source code
 Proprietary. Production source, credentials, shared secrets and deployable packages remain private.
 
 Â© 2026 Mohamad Kassem / The Verificat Agency. All rights reserved.
